@@ -4,9 +4,9 @@ Esta practica numero dos corresponde a la asignatura de interacción humano-comp
 
 ## Vista previa de la plantilla editada
 
-[![Scrolling Nav Preview](https://i.imgur.com/Jjdo3ZI.png)](https://www.google.com/)
+[![Scrolling Nav Preview](https://i.imgur.com/Jjdo3ZI.png)](https://gsusmab.github.io/tecnm-reynosa-ihc-practica-2/index.html)
 
-**[Ver vista previa en vivo](https://www.google.com/)**
+**[Ver vista previa en vivo](https://gsusmab.github.io/tecnm-reynosa-ihc-practica-2/index.html)**
 
 ## Creditos
 
